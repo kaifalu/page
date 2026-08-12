@@ -1,0 +1,40 @@
+Kai-Fa Lu GitHub Pages Package
+==============================
+
+Core pages
+- index.html
+- research.html
+- publications.html
+- activities.html
+- 404.html
+
+Featured institutional and research integrations
+- CECREH · Texas Tech University: https://www.depts.ttu.edu/cecreh/
+- iAdapt · University of Florida: https://dcp.ufl.edu/iadapt/
+- CDBG-DR Fund Dashboard: https://kaifalu.github.io/HUD-CDBG-DR-Fund-Dashboard-Hierarchical/
+- Climate-Housing Exposure Index Dashboard: https://kaifalu.github.io/Climate-Housing-Exposure-Index-Dashboard/
+
+Core assets
+- assets/css/styles.css
+- assets/js/main.js
+- assets/img/*
+- assets/img/dashboard-cdbg-fund-overview.webp
+- assets/img/dashboard-climate-housing-overview.webp
+- assets/Kaifa-Lu-CV.pdf
+- assets/favicon.svg
+
+Deployment and maintenance
+- README.md
+- DEPLOYMENT_GUIDE.md
+- CONTENT_UPDATE_GUIDE.md
+- CHANGELOG.md
+- QA_SUMMARY.txt
+- preview_server.py
+- tools/build_pages.py
+- requirements.txt
+- .nojekyll
+- robots.txt
+- sitemap.xml
+
+Compatibility
+- Legacy route folders redirect older GitHub Pages links to the redesigned pages.

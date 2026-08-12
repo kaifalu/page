@@ -1,0 +1,18 @@
+Kai-Fa Lu Personal Website — Quality Assurance Summary
+======================================================
+
+Validated before packaging:
+- 18 HTML pages and legacy-route redirects parsed successfully.
+- No broken local HTML, CSS, JavaScript, PDF, or image references detected.
+- No duplicate HTML IDs detected.
+- All images include alternative text.
+- Required official affiliation and live dashboard URLs are integrated.
+- 27 published/in-press journal records and 15 under-review records are present.
+- 2 dashboard case studies and 11 additional research projects are present.
+- CSS parsed without errors.
+- JavaScript passed Node syntax validation.
+- Python/Jinja page generator compiled and regenerated the site successfully.
+- Desktop width tested at 1440 px with no horizontal overflow.
+- Mobile width tested at 390 px with no horizontal overflow.
+- Latest CV PDF in the package matches the supplied CV file.
+- Generated Python caches were removed before packaging.
