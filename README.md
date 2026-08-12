@@ -6,7 +6,7 @@ A responsive, multi-page academic portfolio designed for GitHub Pages. The websi
 
 After deployment to the existing repository, the website will remain available at:
 
-**https://kaifalu.github.io/kaifalu_page/**
+**https://kaifalu.github.io/page/**
 
 ## Highlights in this release
 
